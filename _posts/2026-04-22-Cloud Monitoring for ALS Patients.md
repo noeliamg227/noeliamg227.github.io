@@ -59,7 +59,7 @@ Doctors can analyze medical images (CT, MRI, ultrasound) directly in the browser
 
 ![fig1](https://beautifuljekyll.com/assets/img/fig1.png){: .mx-auto.d-block :}
 
-![fig1](/images/crepe.png)
+![fig1](/images/fig1.png)
 
 ![fig1]({{ '/images/fig1.png' | relative_url }})
 ## Architecture
