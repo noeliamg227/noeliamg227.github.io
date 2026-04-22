@@ -54,23 +54,17 @@ The system collects and visualizes physiological signals such as:
 
 Doctors can analyze these signals through web-based interfaces.
 
----
-
 ### Medical Imaging Support
 The platform supports DICOM-standard images, allowing:
 - Visualization of scans directly in the browser  
 - Measurement of distances, angles, and areas  
 - Collaborative analysis by multiple specialists  
 
----
-
 ### Telemedicine Integration
 Patients and doctors can interact remotely through:
 - Virtual consultations  
 - Multi-user sessions  
 - Continuous follow-up  
-
----
 
 ### Patient Data Management
 Each patient has a complete digital profile including:
