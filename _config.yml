@@ -36,12 +36,12 @@ round-avatar: true
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "ferran@ferranaran.com"
-  facebook: ferranad
-  github: ferranad
-  twitter: ferranad
-  youtube: "@ferranad"
-  linkedin: ferranaran
+  email: "noelia@noeliamuñoz.com"
+  facebook: noeliamg
+  github: noeliamg
+  twitter: noeliamg
+  youtube: "@noeliamg"
+  linkedin: noeliamg
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -77,7 +77,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "ferranad.github.io"
+url-pretty: "noeliamg227.github.io"
 
 # Add the website title to the title of every page
 title-on-all-pages: true
