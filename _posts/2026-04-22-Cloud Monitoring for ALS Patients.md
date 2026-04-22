@@ -59,7 +59,7 @@ Doctors can analyze medical images (CT, MRI, ultrasound) directly in the browser
 
 ![fig1](https://beautifuljekyll.com/assets/img/fig1.png){: .mx-auto.d-block :}
 ![fig1]({{ '/assets/img/fig1.png' | relative_url }})
-![fig1](/assets/img/crepe.png){: .mx-auto.d-block :}
+![fig1](/assets/images/crepe.png){: .mx-auto.d-block :}
 ## Architecture
 
 The system is built on a cloud-based architecture composed of:
