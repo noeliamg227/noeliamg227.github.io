@@ -2,7 +2,7 @@
 layout: post
 title: Cloud Monitoring for ALS Patients
 subtitle: A cloud-based system for remote healthcare
-gh-repo: daattali/beautiful-jekyll
+gh-repo: noeliamg227/noeliamg227.github.io.git
 tags: [biomedicine, cloud, telemedicine]
 comments: true
 mathjax: true
