@@ -72,7 +72,7 @@ Doctors can analyze medical images (CT, MRI, ultrasound) directly in the browser
   </figure>
 
   <figure style="text-align:center;">
-    <img src="/images/measurement.png" style="width:300px; max-width:100%;">
+    <img src="/images/measurement2.png" style="width:300px; max-width:100%;">
     <figcaption>Figure 2: Length measurement</figcaption>
   </figure>
 
