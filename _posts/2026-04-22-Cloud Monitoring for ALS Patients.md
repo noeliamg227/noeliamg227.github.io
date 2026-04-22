@@ -3,7 +3,6 @@ layout: post
 title: Cloud Monitoring for ALS Patients
 subtitle: A cloud-based system for remote healthcare
 gh-repo: daattali/beautiful-jekyll
-gh-badge: [star, fork, follow]
 tags: [biomedicine, cloud, telemedicine]
 comments: true
 mathjax: true
