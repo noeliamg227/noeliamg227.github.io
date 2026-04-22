@@ -27,7 +27,7 @@ The proposed system, called **SIMpLE DSS (Decision Support System)**, is part of
 - Cloud-based storage of clinical data  
 - Teleconsultation between patients and healthcare professionals  
 
-<div style="text-align:center;">
+<div style="text-align:center; width:fit-content; margin: 0 auto;">
 
   <img src="/images/fig1.png" width="400">
 
