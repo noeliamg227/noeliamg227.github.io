@@ -64,19 +64,19 @@ Doctors can analyze medical images (CT, MRI, ultrasound) directly in the browser
   <img src="/images/measurement2.png" width="300">
 </div>
 
-<div style="display:flex; gap:20px; justify-content:center; flex-wrap:wrap;">
 
-  <figure style="text-align:center;">
+<figure style="text-align:center;">
+
+  <div style="display:flex; gap:20px; justify-content:center; flex-wrap:wrap;">
     <img src="/images/webviewer.png" style="width:540px; max-width:100%;">
-    <figcaption>Figure 1: Web viewer</figcaption>
-  </figure>
-
-  <figure style="text-align:center;">
     <img src="/images/measurement2.png" style="width:300px; max-width:100%;">
-    <figcaption>Figure 2: Length measurement</figcaption>
-  </figure>
+  </div>
 
-</div>
+  <figcaption>
+    Figure 1: (Left) Web viewer (Right) Length measurement.
+  </figcaption>
+
+</figure>
 
 ## Architecture
 
