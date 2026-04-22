@@ -51,7 +51,16 @@ These signals are uploaded to the cloud and visualized through a web interface, 
 
 - Real-time and historical analysis  
 - Signal comparison and overlap  
-- Zooming and measurement of signal features  
+- Zooming and measurement of signal features
+
+  <div style="display:flex; justify-content:center;">
+  <div style="text-align:center;">
+    <img src="/images/biopotential.png" width="400">
+    <div style="margin-top:10px;">
+      Figure 2: Web viewer for biopotentials signals.
+    </div>
+  </div>
+</div>
 
 ### 2. Cloud-Based Data and Imaging Platform
 
@@ -72,14 +81,14 @@ Doctors can analyze medical images (CT, MRI, ultrasound) directly in the browser
   <figure style="text-align:center;">
     <img src="/images/webviewer.png" style="width:540px; max-width:100%;">
     <figcaption style="margin-top:10px;">
-      Figure 2: Web viewer.
+      Figure 3: Web viewer for analyzing and reporting diagnostic imaging tests.
     </figcaption>
   </figure>
 
   <figure style="text-align:center;">
     <img src="/images/measurement2.png" style="width:300px; max-width:100%;">
     <figcaption style="margin-top:10px;">
-      Figure 3: Length measurement.
+      Figure 4: Length measurement.
     </figcaption>
   </figure>
 
@@ -113,7 +122,7 @@ One particularly powerful feature is the dashboard, which allows clinicians to f
   <img src="/images/dashboard.png" width="400">
 
   <div style="margin-top:10px;">
-    Figure 4: Example dashboard visualization.
+    Figure 5: Example dashboard visualization.
   </div>
 
 </div>
