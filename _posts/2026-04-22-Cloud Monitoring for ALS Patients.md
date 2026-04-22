@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Cloud Monitoring for ALS Patients
-subtitle: There's lots to learn!
+subtitle: A New Era of Remote Patient Monitoring
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [test]
