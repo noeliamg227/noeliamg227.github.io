@@ -60,7 +60,7 @@ Doctors can analyze medical images (CT, MRI, ultrasound) directly in the browser
 - Analysis of irregular regions  
 
 <div style="display:flex; gap:20px; justify-content:center; align-items:flex-start;">
-  <img src="/images/webviewer.png" width="450">
+  <img src="/images/webviewer.png" width="490">
   <img src="/images/measurement2.png" width="300">
 </div>
 
