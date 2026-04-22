@@ -53,7 +53,7 @@ These signals are uploaded to the cloud and visualized through a web interface, 
 - Signal comparison and overlap  
 - Zooming and measurement of signal features
 
-  <div style="display:flex; justify-content:center;">
+<div style="display:flex; justify-content:center;">
   <div style="text-align:center;">
     <img src="/images/biopotential.png" width="400">
     <div style="margin-top:10px;">
