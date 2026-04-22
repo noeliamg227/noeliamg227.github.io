@@ -28,17 +28,12 @@ The proposed system, called **SIMpLE DSS (Decision Support System)**, is part of
 - Teleconsultation between patients and healthcare professionals  
 
 <div style="display:flex; justify-content:center;">
-
   <div style="text-align:center;">
-
     <img src="/images/fig1.png" width="400">
-
     <div style="margin-top:10px;">
       Figure 1: SIMpLE DSS software web-based architecture.
     </div>
-
   </div>
-
 </div>
 
 <br>
