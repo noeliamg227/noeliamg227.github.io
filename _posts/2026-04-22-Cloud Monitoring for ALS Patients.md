@@ -37,7 +37,7 @@ The proposed system, called **SIMpLE DSS (Decision Support System)**, is part of
 
 </div>
 
-<br><br>
+<br>
 The system integrates two main modules:
 
   
