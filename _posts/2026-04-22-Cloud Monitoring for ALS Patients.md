@@ -130,5 +130,5 @@ Beyond ALS, the platform could be adapted for other chronic conditions requiring
 
 ## References
 
-T. Yang and Y. Zhao, "Application of cloud computing in biomedicine big data analysis cloud computing in big data," 2017 International Conference on Algorithms, Methodology, Models and Applications in Emerging Technologies (ICAMMAET), Chennai, India, 2017, pp. 1-3, doi: 10.1109/ICAMMAET.2017.8186626.
+T. Yang and Y. Zhao, "Application of cloud computing in biomedicine big data analysis cloud computing in big data," 2017 International Conference on Algorithms, Methodology, Models and Applications in Emerging Technologies (ICAMMAET), Chennai, India, 2017, pp. 1-3, doi: [10.1109/ICAMMAET.2017.8186626.]([https://deanattali.com/](https://ieeexplore.ieee.org/document/8186626))
 
