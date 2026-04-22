@@ -15,106 +15,85 @@ This post explores a real cloud-based biomedical system designed for remote moni
 
 ## Introduction
 
-Cloud computing is transforming healthcare by enabling remote monitoring, real-time data analysis, and improved collaboration between healthcare professionals. These advances are especially important for patients with chronic and progressive diseases such as **Amyotrophic Lateral Sclerosis (ALS)**.
+Amyotrophic Lateral Sclerosis (ALS) is a progressive neurodegenerative disease that affects motor neurons in the brain and spinal cord. As the disease advances, patients experience muscle weakness, atrophy, and severe mobility limitations.
 
-ALS is a neurodegenerative disease that affects motor neurons, leading to progressive muscle weakness and loss of mobility. Because patients often require continuous monitoring, traditional hospital-based care can be challenging. Cloud-based systems provide an effective alternative.
+Regular monitoring is essential, but frequent hospital visits can be difficult or even risky. This is where telemedicine and cloud computing provide a powerful alternative.
 
----
 
-## The Cloud-Based Solution
-The system proposed by Corchiola et al. (2020), known as **SIMpLE DSS (Decision Support System)**, is a cloud-based platform designed to support:
+## The Proposed System: SIMpLE DSS
+The proposed system, called **SIMpLE DSS (Decision Support System)**, is part of the SIMpLE project (Smart solutions for health Monitoring and independent mobiLity for Elderly and disabled people). It aims to improve the quality of life of patients with severe disabilities by enabling:
 
-- Remote patient monitoring  
-- Teleconsultation  
-- Storage and analysis of biomedical data  
+- Remote monitoring of physiological signals  
+- Cloud-based storage of clinical data  
+- Teleconsultation between patients and healthcare professionals  
 
-It allows healthcare professionals to access patient data anytime and from anywhere.
+The system integrates two main modules:
 
----
+### 1. Biosignal Monitoring
 
-## System Architecture
-The platform integrates several components:
+The platform collects and analyzes key physiological signals such as:
 
-- **Web Server** → Manages user interaction and data processing  
-- **Database Server** → Stores patient records and clinical history  
-- **FTP Server** → Handles biosignal data (ECG, EMG, EEG)  
-- **DICOM Server** → Stores and processes medical images (MRI, CT scans)  
-- **Teleconsultation Module** → Enables communication between patients and doctors  
+- Electromyography (EMG)  
+- Electrocardiography (ECG)  
+- Electroencephalography (EEG)  
 
-This architecture ensures a centralized and scalable system for managing healthcare data.
+These signals are uploaded to the cloud and visualized through a web interface, allowing:
 
----
-
-## Key Features
-### Real-Time Monitoring
-The system collects and visualizes physiological signals such as:
-- ECG (heart activity)  
-- EMG (muscle activity)  
-- EEG (brain activity)  
-
-Doctors can analyze these signals through web-based interfaces.
-
-### Medical Imaging Support
-The platform supports DICOM-standard images, allowing:
-- Visualization of scans directly in the browser  
-- Measurement of distances, angles, and areas  
-- Collaborative analysis by multiple specialists  
-
-### Telemedicine Integration
-Patients and doctors can interact remotely through:
-- Virtual consultations  
-- Multi-user sessions  
-- Continuous follow-up  
-
-### Patient Data Management
-Each patient has a complete digital profile including:
-- Clinical history  
-- Diagnostic tests  
-- Sensor data  
-
-The system also includes **data anonymization**, ensuring privacy and compliance with regulations.
+- Real-time and historical analysis  
+- Signal comparison and overlap  
+- Zooming and measurement of signal features  
 
 ---
 
-## Advantages
-{: .box-success}
-**Key Benefits:**
-- Improved access to healthcare from home  
-- Continuous monitoring of patient conditions  
-- Better collaboration between specialists  
-- Scalable and flexible infrastructure  
+### 2. Cloud-Based Data and Imaging Platform
 
----
+The second module manages:
 
-## Challenges
+- Patient clinical records  
+- Diagnostic imaging (DICOM standard)  
+- Teleconsultation sessions  
 
-{: .box-warning}
-**Limitations to consider:**
-- Data security and privacy concerns  
-- Infrastructure and operational costs  
-- Need for further clinical validation  
+Doctors can analyze medical images (CT, MRI, ultrasound) directly in the browser and perform:
 
----
+- Length and area measurements  
+- Angle calculations (e.g., Cobb angles)  
+- Analysis of irregular regions  
 
-## Future Perspectives
 
-Cloud-based systems like SIMpLE DSS represent the future of digital healthcare. Potential developments include:
+## Architecture
 
-- Integration with wearable devices  
-- AI-driven diagnostics  
-- Personalized treatment plans  
+The system is built on a cloud-based architecture composed of:
 
-These technologies could significantly improve the quality of life for ALS patients and others with chronic diseases.
+- **Web Server**: handles user interface and data processing  
+- **FTP Server**: stores biosignal streams  
+- **Database Server**: manages patient and clinical data  
+- **DICOM Server**: stores and processes medical images  
+- **Teleconsultation Module**: enables remote communication  
 
----
+## Features and Functionalities
 
-## Conclusion
+- **Role-based access control**: patients, doctors, technicians, administrators
+- **Patient geolocation**: for epidemiological analysis  
+- **Customizable clinical records**
+- **Real-time and historical data analysis**
+- **Multi-specialist collaboration**
+- **Data anonymization for privacy protection**
 
-Cloud computing is playing a crucial role in modern biomedicine. The SIMpLE DSS system demonstrates how cloud-based platforms can enable remote monitoring, enhance collaboration, and improve healthcare delivery for ALS patients.
+One particularly powerful feature is the dashboard, which allows clinicians to filter and analyze patient data based on multiple criteria (e.g., pathology, assigned doctor, type of exam), enabling efficient decision-making.
 
-As technology continues to evolve, cloud solutions will become increasingly central to patient care.
+## Teleconsultation and Collaboration
+The system supports many-to-many teleconsultation, meaning multiple doctors can evaluate the same patient simultaneously, specialists can collaborate remotely on complex cases and patients can receive multidisciplinary care without leaving home. This is especially valuable for ALS patients, who often require coordinated care from neurologists, physiotherapists, and other specialists.
 
----
+## Impact and Future Potential
+
+This cloud-based system represents a significant step forward in digital health and personalized medicine. Its benefits include:
+
+- Improved accessibility to specialized care
+- Reduced need for hospital visits
+- Continuous monitoring of disease progression
+- Enhanced collaboration among healthcare professionals
+
+Beyond ALS, the platform could be adapted for other chronic conditions requiring long-term monitoring, such as cardiovascular or neurodegenerative diseases.
 
 ## References
 
