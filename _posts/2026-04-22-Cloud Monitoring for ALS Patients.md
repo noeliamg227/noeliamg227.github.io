@@ -37,8 +37,9 @@ The proposed system, called **SIMpLE DSS (Decision Support System)**, is part of
 
 </div>
 
+<p>
 The system integrates two main modules:
-
+<p>
 ### 1. Biosignal Monitoring
 
 The platform collects and analyzes key physiological signals such as:
