@@ -59,15 +59,15 @@ Doctors can analyze medical images (CT, MRI, ultrasound) directly in the browser
 - Angle calculations (e.g., Cobb angles)  
 - Analysis of irregular regions  
 
-<figure style="text-align:center;">
+<figure>
 
   <div style="display:flex; gap:20px; justify-content:center; flex-wrap:wrap;">
     <img src="/images/webviewer.png" style="width:540px; max-width:100%;">
-    <img src="/images/measurement2.png" style="width:300px; max-width:100%;">
+    <img src="/images/measurement.png" style="width:300px; max-width:100%;">
   </div>
 
   <figcaption style="text-align:center; margin-top:10px;">
-    Figure 3: (a) Web viewer for biosignals. (b) Measurement tools for medical imaging.
+    Figure 1: (Left) Web viewer. (Right) Length measurement.
   </figcaption>
 
 </figure>
