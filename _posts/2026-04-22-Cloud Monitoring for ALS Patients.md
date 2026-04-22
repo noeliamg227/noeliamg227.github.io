@@ -27,7 +27,15 @@ The proposed system, called **SIMpLE DSS (Decision Support System)**, is part of
 - Cloud-based storage of clinical data  
 - Teleconsultation between patients and healthcare professionals  
 
-<img src="/images/fig1.png" width="400">
+<div style="text-align:center;">
+
+  <img src="/images/fig1.png" width="400">
+
+  <div style="margin-top:10px;">
+    Figure 1: SIMpLE DSS software web-based architecture.
+  </div>
+
+</div>
 
 The system integrates two main modules:
 
@@ -67,26 +75,13 @@ Doctors can analyze medical images (CT, MRI, ultrasound) directly in the browser
   </div>
 
   <figcaption style="text-align:center; margin-top:10px;">
-    Figure 1: (Left) Web viewer. (Right) Length measurement.
+    Figure 2 & 3: (Left) Web viewer. (Right) Length measurement.
   </figcaption>
 
 </figure>
 
 
 
-
-<figure style="text-align:center; margin: 0 auto;">
-
-  <div style="display:flex; gap:20px; justify-content:center; flex-wrap:wrap;">
-    <img src="/images/webviewer.png" style="width:400px; max-width:100%;">
-    <img src="/images/measurement2.png" style="width:400px; max-width:100%;">
-  </div>
-
-  <div style="text-align:center; margin-top:10px; width:100%;">
-    Figure 1: (a) Web viewer for biosignals. (b) Measurement tools for medical imaging.
-  </div>
-
-</figure>
 ## Architecture
 
 The system is built on a cloud-based architecture composed of:
@@ -108,7 +103,15 @@ The system is built on a cloud-based architecture composed of:
 
 One particularly powerful feature is the dashboard, which allows clinicians to filter and analyze patient data based on multiple criteria (e.g., pathology, assigned doctor, type of exam), enabling efficient decision-making.
 
-<img src="/images/dashboard.png" width="400">
+<div style="text-align:center;">
+
+  <img src="/images/dashboard.png" width="400">
+
+  <div style="margin-top:10px;">
+    Figure 4: Example dashboard visualization.
+  </div>
+
+</div>
 
 ## Teleconsultation and Collaboration
 The system supports many-to-many teleconsultation, meaning multiple doctors can evaluate the same patient simultaneously, specialists can collaborate remotely on complex cases and patients can receive multidisciplinary care without leaving home. This is especially valuable for ALS patients, who often require coordinated care from neurologists, physiotherapists, and other specialists.
