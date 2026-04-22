@@ -9,7 +9,7 @@ My name is Noelia, I am from Barcelona and I love learning new skills. Have a lo
 ### Education
 
 - BSC in Biomedical Egineering at UPC 
-- MSc in Biomedical Computational Engineering 
+- MSc in Computational Biomedical Engineering 
 - MSC in Health Data Science
 
 ### Experience
