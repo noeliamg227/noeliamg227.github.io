@@ -132,11 +132,3 @@ Beyond ALS, the platform could be adapted for other chronic conditions requiring
 
 T. Yang and Y. Zhao, "Application of cloud computing in biomedicine big data analysis cloud computing in big data," 2017 International Conference on Algorithms, Methodology, Models and Applications in Emerging Technologies (ICAMMAET), Chennai, India, 2017, pp. 1-3, doi: 10.1109/ICAMMAET.2017.8186626.
 
-
-
-![Crepe](/assets/img/crepe.jpg)
-
-If the above image is broken, then you'll need to follow the instructions [in the FAQ](https://beautifuljekyll.com/faq/#links-in-project-page). Here is proof that it can be fixed:
-
-![Crepe]({{ '/assets/img/crepe.jpg' | relative_url }})
-
