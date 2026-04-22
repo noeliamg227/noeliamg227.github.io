@@ -72,6 +72,23 @@ Doctors can analyze medical images (CT, MRI, ultrasound) directly in the browser
 
 </figure>
 
+
+
+
+<figure>
+
+  <div style="display:flex; gap:20px; justify-content:center; flex-wrap:wrap;">
+    <img src="/images/webviewer.png" style="width:400px; max-width:100%;">
+    <img src="/images/measurement.png" style="width:400px; max-width:100%;">
+  </div>
+
+  <figcaption>
+    <div style="text-align:center; width:100%;">
+      Figure 1: (a) Web viewer for biosignals. (b) Measurement tools for medical imaging.
+    </div>
+  </figcaption>
+
+</figure>
 ## Architecture
 
 The system is built on a cloud-based architecture composed of:
