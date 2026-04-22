@@ -11,7 +11,7 @@ author: Noelia Muñoz
 ---
 
 {: .box-success}
-This post explores a real cloud-based biomedical system designed for remote monitoring of patients with Amyotrophic Lateral Sclerosis (ALS), based on Corchiola et al. (2020).
+This post explores a real cloud-based biomedical system designed for remote monitoring of patients with Amyotrophic Lateral Sclerosis (ALS), based on Yang et al. (2020).
 
 ## Introduction
 
@@ -42,7 +42,7 @@ The system integrates two main modules:
   
 ### 1. Biosignal Monitoring
 
-The platform collects and analyzes key physiological signals such as:
+The platform collects and analyzes physiological signals such as:
 
 - Electromyography (EMG)  
 - Electrocardiography (ECG)  
@@ -130,80 +130,9 @@ Beyond ALS, the platform could be adapted for other chronic conditions requiring
 
 ## References
 
-Corchiola, D., Palumbo, A., Calabrese, B., Ielpo, N., Demeco, A., & Ammendolia, A. (2020). *Cloud-based biomedical system for remote monitoring of ALS patients*. IEEE International Conference on Bioinformatics and Biomedicine (BIBM).
+T. Yang and Y. Zhao, "Application of cloud computing in biomedicine big data analysis cloud computing in big data," 2017 International Conference on Algorithms, Methodology, Models and Applications in Emerging Technologies (ICAMMAET), Chennai, India, 2017, pp. 1-3, doi: 10.1109/ICAMMAET.2017.8186626.
 
 
-
-[This is a link to a different site](https://deanattali.com/) and [this is a link to a section inside this page](#local-urls).
-
-Here's a table:
-
-| Number | Next number | Previous number |
-| :------ |:--- | :--- |
-| Five | Six | Four |
-| Ten | Eleven | Nine |
-| Seven | Eight | Six |
-| Two | Three | One |
-
-You can use [MathJax](https://www.mathjax.org/) to write LaTeX expressions. For example:
-When \\(a \ne 0\\), there are two solutions to \\(ax^2 + bx + c = 0\\) and they are $$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$
-
-How about a yummy crepe?
-
-![Crepe](https://beautifuljekyll.com/assets/img/crepe.jpg)
-
-It can also be centered!
-
-![Crepe](https://beautifuljekyll.com/assets/img/crepe.jpg){: .mx-auto.d-block :}
-
-Here's a code chunk:
-
-~~~
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-~~~
-
-And here is the same code with syntax highlighting:
-
-```javascript
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-```
-
-And here is the same code yet again but with line numbers:
-
-{% highlight javascript linenos %}
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-{% endhighlight %}
-
-## Boxes
-You can add notification, warning and error boxes like this:
-
-### Notification
-
-{: .box-note}
-**Note:** This is a notification box.
-
-### Warning
-
-{: .box-warning}
-**Warning:** This is a warning box.
-
-### Error
-
-{: .box-error}
-**Error:** This is an error box.
-
-## Local URLs in project sites {#local-urls}
-
-When hosting a *project site* on GitHub Pages (for example, `https://USERNAME.github.io/MyProject`), URLs that begin with `/` and refer to local files may not work correctly due to how the root URL (`/`) is interpreted by GitHub Pages. You can read more about it [in the FAQ](https://beautifuljekyll.com/faq/#links-in-project-page). To demonstrate the issue, the following local image will be broken **if your site is a project site:**
 
 ![Crepe](/assets/img/crepe.jpg)
 
