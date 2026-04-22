@@ -43,8 +43,6 @@ These signals are uploaded to the cloud and visualized through a web interface, 
 - Signal comparison and overlap  
 - Zooming and measurement of signal features  
 
----
-
 ### 2. Cloud-Based Data and Imaging Platform
 
 The second module manages:
@@ -60,6 +58,7 @@ Doctors can analyze medical images (CT, MRI, ultrasound) directly in the browser
 - Analysis of irregular regions  
 
 ![fig1](https://beautifuljekyll.com/assets/img/fig1.png){: .mx-auto.d-block :}
+![fig1]({{ '/assets/images/fig1.png' | relative_url }})
 
 ## Architecture
 
