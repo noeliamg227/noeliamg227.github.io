@@ -80,6 +80,8 @@ The system is built on a cloud-based architecture composed of:
 
 One particularly powerful feature is the dashboard, which allows clinicians to filter and analyze patient data based on multiple criteria (e.g., pathology, assigned doctor, type of exam), enabling efficient decision-making.
 
+<img src="/images/dashboard.png" width="400">
+
 ## Teleconsultation and Collaboration
 The system supports many-to-many teleconsultation, meaning multiple doctors can evaluate the same patient simultaneously, specialists can collaborate remotely on complex cases and patients can receive multidisciplinary care without leaving home. This is especially valuable for ALS patients, who often require coordinated care from neurologists, physiotherapists, and other specialists.
 
