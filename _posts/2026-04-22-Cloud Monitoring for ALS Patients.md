@@ -1,17 +1,17 @@
 ---
 layout: post
 title: Cloud Monitoring for ALS Patients
-subtitle: A New Era of Remote Patient Monitoring
+subtitle: A cloud-based system for remote healthcare
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
-tags: [test]
+tags: [biomedicine, cloud, telemedicine]
 comments: true
 mathjax: true
-author: Bill Smith
+author: Noelia Muñoz
 ---
 
 {: .box-success}
-This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/tables/etc.<br/>I also encourage you to look at the [code that created this post](https://raw.githubusercontent.com/daattali/beautiful-jekyll/master/_posts/2020-02-28-sample-markdown.md) to learn some more advanced tips about using markdown in Beautiful Jekyll.
+This post explores a real cloud-based biomedical system designed for remote monitoring of patients with Amyotrophic Lateral Sclerosis (ALS), based on Corchiola et al. (2020).
 
 **Here is some bold text**
 
