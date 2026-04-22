@@ -27,6 +27,8 @@ The proposed system, called **SIMpLE DSS (Decision Support System)**, is part of
 - Cloud-based storage of clinical data  
 - Teleconsultation between patients and healthcare professionals  
 
+<img src="/images/fig1.png" width="400">
+
 The system integrates two main modules:
 
 ### 1. Biosignal Monitoring
@@ -57,6 +59,7 @@ Doctors can analyze medical images (CT, MRI, ultrasound) directly in the browser
 - Angle calculations (e.g., Cobb angles)  
 - Analysis of irregular regions  
 
+<img src="/images/webviewer.png" width="400">
 <img src="/images/fig1.png" width="400">
 
 ## Architecture
